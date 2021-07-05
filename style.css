@@ -1,0 +1,140 @@
+
+body{
+   background-image: url("https://images.unsplash.com/photo-1522441815192-d9f04eb0615c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YmFja2dyb3VuZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+   background-size: cover;
+   background-repeat: no-repeat;
+
+}
+.gg {
+    padding-left: 500px;
+    padding-right:500px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    display: inline;
+   
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+h1{
+    color: rgb(55, 56, 55);
+    font-style: serif;
+}
+.texte2 {
+    color: red;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    padding: 30px;
+    margin: 10px;
+}
+.texte1 {
+    color: teal;
+    font-style: oblique;
+}
+.aa {
+    color: tomato;
+    font-size: x-large;
+}
+.h1p1 {
+    color: teal ;
+  font-size: x-large;
+}
+.mm {
+    color: red;
+}
+.qq  {
+    color: rgb(7, 5, 5) 
+}
+.nn {
+    padding-left:500 ;
+    padding-right:  650px; ;
+}
+.kl {
+    color: red;
+}
+.WV {
+ padding-left: 500px;
+ padding-right: 500px;
+}
+.img {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.webb {
+    color: rgb(0, 0, 0);
+}
+.lm {
+    color: rgb(2, 2, 2);
+    padding-bottom: 50px;
+    padding-left: 50px;
+    font-size: x-large;
+}
+.wx {
+    color: red;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    padding: 20px;
+    margin: 10px;
+}
+.nj {
+    color: red;
+}
+.bvb {
+    color: red;
+}
+.fcb {
+    color: red;
+}
+.rmd {
+    color: red;
+}
+.igg {
+    color: red;
+}
+.i7 {
+    color: rgb(41, 39, 30);
+    font-size: larger;
+}
+.hjk {
+    color: rgb(49, 47, 36);
+    font-size: larger;
+}
+.ios {
+    color: indigo;
+}
+.con{
+   display: flex;
+   flex-direction: row-reverse;
+}
+.bvn {
+  margin-left: 100px;
+  margin-right: 100px;
+}.jhg {
+    padding-top: 70px;
+    padding-left: 100px;
+}
+.formulaire{
+    display: inline;
+    
+}
